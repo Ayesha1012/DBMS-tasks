@@ -11,7 +11,7 @@ To understand how transactions keep related database changes consistent.
 - Basic ACID properties
 
 ## SQL file
-Run `01_transactions.sql` in MySQL.
+Run `xii.sql` in MySQL.
 
 ## Important note
 The examples use ROLLBACK for practice, so the sample changes are undone. Run them on a practice database, not on important real data.
