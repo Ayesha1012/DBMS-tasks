@@ -11,7 +11,7 @@ To use SQL aggregate functions and prepare simple sales reports.
 - Category-wise sales
 
 ## SQL file
-Run `01_sales_analytics.sql` after completing the earlier tasks.
+Run `ix.sql` after completing the earlier tasks.
 
 ## Beginner note
 Aggregate functions calculate a result from several rows. For example, SUM adds values and AVG finds their average.
