@@ -10,7 +10,7 @@ To practise database objects that can make repeated work easier.
 - Testing database objects
 
 ## SQL file
-Run `01_views_procedures.sql` in MySQL 8.0 or a compatible version.
+Run `xi.sql` in MySQL 8.0 or a compatible version.
 
 ## Important note
 The file uses DELIMITER to define stored programs. Run the full file in a MySQL client that supports DELIMITER, such as MySQL Workbench.
