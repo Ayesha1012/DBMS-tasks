@@ -11,7 +11,7 @@ To learn basic database permissions and indexes.
 - EXPLAIN for query analysis
 
 ## SQL file
-Run `01_security_indexes.sql` with a MySQL account that has permission to create users and grant privileges.
+Run `xiii.sql` with a MySQL account that has permission to create users and grant privileges.
 
 ## Important note
 Replace the sample username and host as needed. The example password is a placeholder; do not use it for a real account. User and privilege commands may require administrator access.
